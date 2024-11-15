@@ -1,0 +1,1 @@
+Code used for the course "Computational Methods for Physicists 2" taught at University of Los Andes in 2022. Each file contains a Jupyter Notebook with the code required for each project/homework assigned. The main topic of this repository involves solving partial/ordinary differential equations that model physical phenomena using made-from-scratch and physics-based solvers.
